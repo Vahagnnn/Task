@@ -1,0 +1,183 @@
+{
+	"products": [{
+			"name": "The Great Gatsby",
+			"image": "The Great Gatsby",
+			"category": "Books",
+            "price": 100
+		},
+		{
+			"name": "Snooker",
+			"image": "Snooker",
+            "category": "Sporting Goods",
+            "price": 120
+		},
+		{
+			"name": "Rock",
+			"image": "rock music",
+            "category": "Music",
+            "price": 500
+		},
+		{
+			"name": "Ticket",
+			"image": "Ticket",
+            "category": "Travel",
+            "price": 6500
+		},
+		{
+			"name": "Notebook",
+			"image": "mac",
+            "category": "Electronics",
+            "price": 4300
+		},
+        {
+            "name": "Dress",
+            "image": "dress",
+            "category": "Other",
+            "price": 980
+        },
+        {
+            "name": "The Grapes of Wrath",
+            "image": "85029",
+            "category": "Books",
+            "price": 250
+        },
+        {
+            "name": "Ball",
+            "image": "ball",
+            "category": "Sporting Goods",
+            "price": 120
+        },
+        {
+            "name": "Easy listening music",
+            "image": "instrumental-music-311",
+            "category": "Music",
+            "price": 580
+        },
+        {
+            "name": "Ticket",
+            "image": "Ticket to Ride",
+            "category": "Hamilton Tickets",
+            "price": 700
+        },
+        {
+            "name": "TV",
+            "image": "apple-tv-living-room",
+            "category": "Electronics",
+            "price": 300
+        },
+        {
+            "name": "Keyboard",
+            "image": "MLA22LL",
+            "category": "Other",
+            "price": 180
+        },
+        {
+            "name": "Nineteen Eighty-Four",
+            "image": "PenguinBook",
+            "category": "Books",
+            "price": 120
+        },
+        {
+            "name": "Table Tennis",
+            "image": "tenis",
+            "category": "Sporting Goods",
+            "price": 520
+        },
+        {
+            "name": "Classic",
+            "image": "classic",
+            "category": "Music",
+            "price": 700
+        },
+        {
+            "name": "Ticket",
+            "image": "TICKETS-NOW",
+            "category": "Bruno Mars Tickets",
+            "price": 820
+        },
+        {
+            "name": "Player",
+            "image": "player",
+            "category": "Electronics",
+            "price": 1300
+        },
+        {
+            "name": "Shoes",
+            "image": "Shoes",
+            "category": "Other",
+            "price": 80
+        },
+        {
+            "name": "Ulysses",
+            "image": "Ulysses",
+            "category": "Books",
+            "price": 50
+        },
+        {
+            "name": "Ping Pong",
+            "image": "ping-pong",
+            "category": "Sporting Goods",
+            "price": 920
+        },
+        {
+            "name": "Instrumental",
+            "image": "Instrumental",
+            "category": "Music",
+            "price": 560
+        },
+        {
+            "name": "Ticket",
+            "image": "Ticket",
+            "category": "Tennis Tickets",
+            "price": 650
+        },
+        {
+            "name": "iPhone",
+            "image": "iPhone",
+            "category": "Electronics",
+            "price": 1800
+        },
+        {
+            "name": "Mouse",
+            "image": "mause",
+            "category": "Other",
+            "price": 90
+        },
+        {
+            "name": "Lolita",
+            "image": "Lolita",
+            "category": "Books",
+            "price": 120
+        },
+        {
+            "name": "Snooker",
+            "image": "WHP-Snooker",
+            "category": "Sporting Goods",
+            "price": 190
+        },
+        {
+            "name": "Enigma",
+            "image": "Enigma",
+            "category": "Music",
+            "price": 570
+        },
+        {
+            "name": "Ticket",
+            "image": "TicketGold",
+            "category": "NBA Tickets",
+            "price": 650
+        },
+        {
+            "name": "PC",
+            "image": "PC",
+            "category": "Electronics",
+            "price": 430
+        },
+        {
+            "name": "Modem",
+            "image": "Modem",
+            "category": "Other",
+            "price": 180
+        }
+	]
+}
